@@ -20,5 +20,6 @@ The model is trained for 3 epochs using:
 The model achieves competitive accuracy on MNIST digit classification after just 3 epochs of training.
 ## How to Run
 ```bash
-python train.py```
+python train.py
+```
 The script will automatically download the MNIST dataset and train the model.
